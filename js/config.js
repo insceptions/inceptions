@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "";
+var l_serverName = "Insception's Imperial Roleplay";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -116,8 +116,9 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "", name: ""},
 	{ogg: "", name: ""},
+	{youtube: "https://www.youtube.com/watch?v=R7HF0N7_afA&pbjreload=10", name: "Between The Lights"},
 	{youtube: "https://www.youtube.com/watch?v=aQ3poU70uIE", name: "Imperial Theme Heroic"},
-];
+	];
 
 // Random music order?
 // 'true' or 'false'
